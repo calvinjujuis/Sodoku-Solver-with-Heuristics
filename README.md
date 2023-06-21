@@ -19,5 +19,5 @@
        2. Get the most constaining block: block that constrains the most number of empty blocks
        3. Assign a least constraining value: value that is in the domain of least number of empty blocks
 
-## Result:
+## Result by difficulty of puzzle:
 <img width="719" alt="Screenshot 2023-06-21 at 10 55 02 AM" src="https://github.com/calvinjujuis/Sudoku-Solver-with-Heuristics/assets/83982075/bc224dbc-e07e-4500-9801-5a5b3570043d">
